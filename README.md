@@ -1,0 +1,1 @@
+git@github.com:gbogomolova/posmotri-v-okno-ad.git
